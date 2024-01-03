@@ -22,3 +22,8 @@ Je moet de volgende packages installeren
 -react-scroll-to-bottom
 
 
+om alles te kunnen runnen moet je:
+
+2 terminals maken ---> bij terminal 1 doe je cd client en bij terminal 2 doe je cd server ---> bij beide moet je npm start doen
+
+
