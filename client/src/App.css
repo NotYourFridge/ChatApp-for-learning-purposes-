@@ -2,7 +2,7 @@
   width: 100vw;
   height: 100vh;
   background: #fff;
-  color: #212121;
+  color: #1f1e1e;
   font-family: "Open Sans", sans-serif;
   display: grid;
   place-items: center;
@@ -27,7 +27,7 @@ body {
   width: 210px;
   height: 40px;
   margin: 7px;
-  border: 2px solid #43a047;
+  border: 2px solid #2aa2d1;
   border-radius: 5px;
   padding: 5px;
   font-size: 16px;
@@ -41,13 +41,13 @@ body {
   border-radius: 5px;
   padding: 5px;
   font-size: 16px;
-  background: #43a047;
+  background: #2aa2d1;
   color: #fff;
   cursor: pointer;
 }
 
 .joinChatContainer button:hover {
-  background: #2e7d32;
+  background: #126d91;
 }
 
 .chat-window {
@@ -184,7 +184,7 @@ body {
 }
 
 .chat-window .chat-footer button:hover {
-  color: #43a047;
+  color: #2aa2d1;
 }
 .hide {
   opacity: 0 !important;
